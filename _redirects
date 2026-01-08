@@ -1,0 +1,8 @@
+# Netlify redirects for React Router
+# This file should be in the public/ directory
+
+# Handle client-side routing - redirect all routes to index.html
+/*    /index.html   200
+
+# Optional: Handle specific API routes if needed
+# /api/*  https://backend.getnayi.in/api/:splat  200
